@@ -2,6 +2,8 @@
 # MAIA
 MAIA est un logiciel de reconaissance de signalisation routiere. Développé en Java et exécutable via Maven.
 
+Les figures et le détail du fonctionnement sont dans [docs/explications.md](docs/explications.md).
+
 ## Fonctionnalités:                                                                                                                                                                                                                                                            
 L’application permet de lancer une reconnaissance de panneaux routiers :
 
