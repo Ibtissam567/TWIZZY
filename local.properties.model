@@ -1,0 +1,7 @@
+# ################################# #
+# #    Local Configuration Model    #
+# ################################# #
+
+# Copy this file as local.properties
+# Change the variable with the actual path of Opencv jar 
+opencv.jar.path = C:\AyoubDev\Libraries\opencv\build\java\opencv-2413.jar

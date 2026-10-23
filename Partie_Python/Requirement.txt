@@ -1,0 +1,13 @@
+Voici les versions des bibliothèques pour app_gui_irl.py et training_cnn.py
+
+Python 3.10.20
+
+OpenCV (opencv-python) : 4.9.0.80
+
+NumPy : 1.26.4
+
+Pillow : 12.2.0
+
+Ultralytics (YOLO) : 8.4.50
+
+tensorflow_intel Version: 2.10.0 avec l'optimisation DirectML, ce qui permettait au code d'utiliser la carte graphique-> plus rapide 
